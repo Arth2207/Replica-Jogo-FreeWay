@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://imagemCarros.length",
+            "request": "launch",
+            "url": "http://imagemCarros.length"
+        }
+    ]
+}
